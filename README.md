@@ -64,7 +64,7 @@ MIT
 
 変換される円はポリゴンの頂点を元に最小二乗法により円に変換され、元のポリゴンはコンストラクションにされます。
 
-<img src="./resources/ply2cir.png">＜-直せ
+<img src="./resources/ply2cir.png">
 
 変換可能とされるスケッチ直線は以下の条件です。
 
