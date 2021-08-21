@@ -1,4 +1,4 @@
-# **_Fusion360 Polygon To Circle_**
+# **_Fusion360 Polygons To Circles_**
 
 This is a Add-in for Autodesk software "Fusion360".
 
